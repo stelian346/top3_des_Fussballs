@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: white;
+
+    background-image: url("../assets/barcelona_logo.png");
+    background-color: black;
+    background-size: 1600px 1600px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-position: top;  
+}
+
+:root{
+    font-size: 1.2rem;
+}
+@media (max-width: 1000px) {
+    :root{
+    font-size: 2rem;
+    }
+}    
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.club_world_cup{
+    display: block;
+    margin: auto;
+}
+
+.Cruyff{
+    display: block;
+    margin: auto;
+}
+
+.taktik{
+    display: block;
+    margin: auto;
+}
+
+.zurück{
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
+
+p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}

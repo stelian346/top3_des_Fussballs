@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal; 
+}
+
+:root{
+    font-size: 1.2rem;
+}
+@media (max-width: 1000px) {
+    :root{
+    font-size: 2rem;
+    }
+}    
+
+a{
+    color: rgb(0, 0, 0);
+}
+
+a:hover{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.Bild_der_drei_Vereine{
+    display: block;
+    margin: 0 auto;
+}
+
+.links{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
